@@ -8,3 +8,6 @@ this will include:
 * html
 * css
 * js
+
+
+next we are going to try jquery MANNNN
